@@ -1,0 +1,6 @@
+{
+  "name": "Expo Agroalimentaria La Grita 2026",
+  "description": "Sitio web interactivo oficial de la Expo Agroalimentaria La Grita 2026 (20, 21 y 22 de noviembre de 2026, Casino Militar de La Grita, Táchira). Registro de visitantes con pase QR, plano de stands y directorio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

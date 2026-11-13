@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://expo.agromarket.com.ve/sitemap.xml
